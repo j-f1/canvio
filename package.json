@@ -3,6 +3,7 @@
   "version": "0.2.5",
   "repository": "https://github.com/ArtOfCode-/canvio",
   "license": "MIT",
+  "main": "canvio.js",
   "scripts": {
     "test": "xo"
   },
